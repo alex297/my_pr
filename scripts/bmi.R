@@ -4,7 +4,7 @@
 
 ####Input your weight in kg
 
-weight <- 100
+weight <- 45
 
 ###Input your height in m
 
